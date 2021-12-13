@@ -1,6 +1,6 @@
 # Bioinformatics-4
 
-# Крупецков Александр #
+## Крупецков Александр ##
 
 ![image](https://user-images.githubusercontent.com/71072356/145886442-ffc7b96f-1a76-4bb0-b814-4dcf7f008d8d.png)
 ![image](https://user-images.githubusercontent.com/71072356/145886493-4aee27de-3def-4f08-9691-3b8b8a5580a6.png)
