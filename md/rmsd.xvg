@@ -1,0 +1,29 @@
+# This file was created Mon Dec 13 18:21:12 2021
+# Created by:
+#               :-) GROMACS - gmx rms, 2020.1-Ubuntu-2020.1-1 (-:
+# 
+# Executable:   /usr/bin/gmx
+# Data prefix:  /usr
+# Working dir:  /home/xubuntu/emptydir/md
+# Command line:
+#   gmx rms -s md_0_1.tpr -f md_0_1_noPBC.xtc -o rmsd.xvg -tu ns
+# gmx rms is part of G R O M A C S:
+#
+# Getting the Right Output Means no Artefacts in Calculating Stuff
+#
+@    title "RMSD"
+@    xaxis  label "Time (ns)"
+@    yaxis  label "RMSD (nm)"
+@TYPE xy
+@ subtitle "Backbone after lsq fit to Backbone"
+   0.0000000    0.0004925
+   0.0100000    0.0675856
+   0.0200000    0.0871448
+   0.0300000    0.0817516
+   0.0400000    0.0842570
+   0.0500000    0.0924205
+   0.0600000    0.0967496
+   0.0700000    0.0958467
+   0.0800000    0.0996725
+   0.0900000    0.1215549
+   0.1000000    0.1177490
